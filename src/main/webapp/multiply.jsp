@@ -7,7 +7,7 @@
 <title>Multiplication</title>
 </head>
 <body>
-<h1>Multiply</h1>
+<h1>Multiplication</h1>
 <p>Essentially, to multiply numbers is to add groups of a number. a mathematical
  operation that at its simplest is an abbreviated process of adding an integer to zero 
  a specified number of times and that is extended to other numbers in accordance with 
